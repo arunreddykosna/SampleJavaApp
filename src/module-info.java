@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arukumar
+ *
+ */
+module SampleJavaApp {
+}
